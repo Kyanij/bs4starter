@@ -1,13 +1,13 @@
-Bootstrap 4 Starter Pack (BETA 4.0.0)
-Includes Complete Bootstrap 4.0.0 -beta.2 dev environment with gulp and class
+<strong>Bootstrap 4 Starter Pack (BETA 4.0.0)</strong><br>
+Includes Complete Bootstrap 4.0.0 -beta.2 dev environment with gulp and class<br>
 
-Version
+<strong>Version</strong><br>
 1.0.0
 
-Install Dependencies
+<strong>Install Dependencies</strong><br>
 npm install
 
-Compile Sass and Run Dev Server
+<strong>Compile Sass and Run Dev Server</strong<br>
 npm start
 
 Files are compiled into /src

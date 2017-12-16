@@ -7,7 +7,7 @@ Includes Complete Bootstrap 4.0.0 -beta.2 dev environment with gulp and class<br
 <strong>Install Dependencies</strong><br>
 npm install
 
-<strong>Compile Sass and Run Dev Server</strong<br>
+<strong>Compile Sass and Run Dev Server</strong><br>
 npm start
 
 Files are compiled into /src
